@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>RevitAddin Sample</Name>
+    <Assembly>RevitAddin/RevitAddin.dll</Assembly>
+    <AddInId>B9C5CC12-1135-4309-8472-00507B123456</AddInId>
+    <FullClassName>RevitAddin.Commands.SampleCommand</FullClassName>
+    <VendorId>com.example</VendorId>
+    <VendorDescription>Example Vendor, www.example.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
