@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net48</TargetFrameworks>
+    <Configurations>Debug 2020;Debug 2024;Release 2020;Release 2024</Configurations>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>disable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="$(Configuration.Contains('2020'))">
+    <RevitVersion>2020</RevitVersion>
+    <DefineConstants>REVIT2020</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition="$(Configuration.Contains('2024'))">
+    <RevitVersion>2024</RevitVersion>
+    <DefineConstants>REVIT2024</DefineConstants>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Nice3point.Revit.Api.RevitAPI" Version="$(RevitVersion).*" PrivateAssets="All" />
+    <PackageReference Include="Nice3point.Revit.Api.RevitAPIUI" Version="$(RevitVersion).*" PrivateAssets="All" />
+  </ItemGroup>
+</Project>
