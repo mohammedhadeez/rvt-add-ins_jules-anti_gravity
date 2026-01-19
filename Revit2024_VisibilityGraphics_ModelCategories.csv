@@ -1,0 +1,919 @@
+Visibility,Category,Projection/Surface - Lines,Projection/Surface - Patterns,Transparency,Cut - Lines,Cut - Patterns,Halftone,Detail Level,ID
+TRUE,Abutment Foundation Tags,,,0,,,FALSE,By View,-2006208
+TRUE,Abutment Foundations,,,0,,,FALSE,By View,-2006202
+TRUE,Abutment Pile Tags,,,0,,,FALSE,By View,-2006209
+TRUE,Abutment Piles,,,0,,,FALSE,By View,-2006203
+TRUE,Abutment Tags,,,0,,,FALSE,By View,-2006170
+TRUE,Abutment Wall Tags,,,0,,,FALSE,By View,-2006210
+TRUE,Abutment Walls,,,0,,,FALSE,By View,-2006204
+TRUE,Abutments,,,0,,,FALSE,By View,-2006130
+TRUE,Accidental Loads,,,0,,,FALSE,By View,-2005216
+TRUE,Adaptive Points,,,0,,,FALSE,By View,-2000900
+TRUE,Air Openings,,,0,,,FALSE,By View,-2008184
+TRUE,Air Surfaces,,,0,,,FALSE,By View,-2008174
+TRUE,Air Systems,,,0,,,FALSE,By View,-2001008
+TRUE,Air Terminal Tags,,,0,,,FALSE,By View,-2008014
+TRUE,Air Terminals,,,0,,,FALSE,By View,-2008013
+TRUE,Aligning Line,,,0,,,FALSE,By View,-2000048
+TRUE,Alignment Station Label Sets,,,0,,,FALSE,By View,-2001016
+TRUE,Alignment Station Labels,,,0,,,FALSE,By View,-2001017
+TRUE,Alignment Tags,,,0,,,FALSE,By View,-2001015
+TRUE,Alignments,,,0,,,FALSE,By View,-2001012
+TRUE,Always excluded in all views,,,0,,,FALSE,By View,-2003330
+TRUE,Analysis Display Style,,,0,,,FALSE,By View,-2000304
+TRUE,Analysis Results,,,0,,,FALSE,By View,-2000303
+TRUE,Analytical Beam Tags,,,0,,,FALSE,By View,-2009649
+TRUE,Analytical Beams,,,0,,,FALSE,By View,-2009630
+TRUE,Analytical Brace Tags,,,0,,,FALSE,By View,-2009650
+TRUE,Analytical Braces,,,0,,,FALSE,By View,-2009633
+TRUE,Analytical Column Tags,,,0,,,FALSE,By View,-2009651
+TRUE,Analytical Columns,,,0,,,FALSE,By View,-2009636
+TRUE,Analytical Feeder,,,0,,,FALSE,By View,-2001096
+TRUE,Analytical Floor Tags,,,0,,,FALSE,By View,-2009652
+TRUE,Analytical Floors,,,0,,,FALSE,By View,-2009639
+TRUE,Analytical Foundation Slabs,,,0,,,FALSE,By View,-2009643
+TRUE,Analytical Isolated Foundation Tags,,,0,,,FALSE,By View,-2009654
+TRUE,Analytical Isolated Foundations,,,0,,,FALSE,By View,-2009641
+TRUE,Analytical Link Tags,,,0,,,FALSE,By View,-2000955
+TRUE,Analytical Links,,,0,,,FALSE,By View,-2009657
+TRUE,Analytical Member Tags,,,0,,,FALSE,By View,-2009663
+TRUE,Analytical Members,,,0,,,FALSE,By View,-2009662
+TRUE,Analytical Model,,,0,,,FALSE,By View,-2000545
+TRUE,Analytical Model,,,0,,,FALSE,By View,-2000546
+TRUE,Analytical Model,,,0,,,FALSE,By View,-2001353
+TRUE,Analytical Model,,,0,,,FALSE,By View,-2001332
+TRUE,Analytical Model,,,0,,,FALSE,By View,-2001331
+TRUE,Analytical Node Tags,,,0,,,FALSE,By View,-2000956
+TRUE,Analytical Nodes,,,0,,,FALSE,By View,-2009645
+TRUE,Analytical Opening Tags,,,0,,,FALSE,By View,-2000958
+TRUE,Analytical Openings,,,0,,,FALSE,By View,-2009665
+TRUE,Analytical Panel Tags,,,0,,,FALSE,By View,-2000957
+TRUE,Analytical Panels,,,0,,,FALSE,By View,-2009664
+TRUE,Analytical Pipe Connections,,,0,,,FALSE,By View,-2000983
+TRUE,Analytical Slab Foundation Tags,,,0,,,FALSE,By View,-2009656
+TRUE,Analytical Spaces,,,0,,,FALSE,By View,-2008185
+TRUE,Analytical Surfaces,,,0,,,FALSE,By View,-2008090
+TRUE,Analytical Surfaces,,,0,,,FALSE,By View,-2008186
+TRUE,Analytical Wall Foundation Tags,,,0,,,FALSE,By View,-2009655
+TRUE,Analytical Wall Foundations,,,0,,,FALSE,By View,-2009642
+TRUE,Analytical Wall Tags,,,0,,,FALSE,By View,-2009653
+TRUE,Analytical Walls,,,0,,,FALSE,By View,-2009640
+TRUE,Anchor Tags,,,0,,,FALSE,By View,-2009057
+TRUE,Anchors,,,0,,,FALSE,By View,-2009039
+TRUE,Annotation Crop Boundary,,,0,,,FALSE,By View,-2000549
+TRUE,Annotation Crop Boundary,,,0,,,FALSE,By View,-2000547
+TRUE,Approach Slab Tags,,,0,,,FALSE,By View,-2006211
+TRUE,Approach Slabs,,,0,,,FALSE,By View,-2006205
+TRUE,Arches,,,0,,,FALSE,By View,-2006134
+TRUE,Area Based Load Tags,,,0,,,FALSE,By View,-2001078
+TRUE,Area Based Load Type,,,0,,,FALSE,By View,-2001019
+TRUE,Area Load Tags,,,0,,,FALSE,By View,-2005252
+TRUE,Area Loads,,,0,,,FALSE,By View,-2005203
+TRUE,Area Polylines,,,0,,,FALSE,By View,-2000830
+TRUE,Area Reinforcement Overridden Curves,,,0,,,FALSE,By View,-2009004
+TRUE,Area Schemes,,,0,,,FALSE,By View,-2003201
+TRUE,Area Tags,,,0,,,FALSE,By View,-2005020
+TRUE,Areas,,,0,,,FALSE,By View,-2003200
+TRUE,Array,,,0,,,FALSE,By View,-2000091
+TRUE,Assemblies,,,0,,,FALSE,By View,-2000267
+TRUE,Assembly Origins,,,0,,,FALSE,By View,-2009658
+TRUE,Assembly Tags,,,0,,,FALSE,By View,-2000268
+TRUE,Attached Detail Groups,,,0,,,FALSE,By View,-2000097
+TRUE,Audio Visual Device Tags,,,0,,,FALSE,By View,-2001057
+TRUE,Audio Visual Devices,,,0,,,FALSE,By View,-2001055
+TRUE,Automatic Sketch Dimensions,,,0,,,FALSE,By View,-2000261
+TRUE,Backed Up Elements,,,0,,,FALSE,By View,-2000047
+TRUE,Balusters,,,0,,,FALSE,By View,-2000127
+TRUE,Base Segment,,,0,,,FALSE,By View,-2009637
+TRUE,Bearing Tags,,,0,,,FALSE,By View,-2006178
+TRUE,Bearings,,,0,,,FALSE,By View,-2006138
+TRUE,Blocks,,,0,,,FALSE,By View,-2001359
+TRUE,Bolt Tags,,,0,,,FALSE,By View,-2009056
+TRUE,Bolts,,,0,,,FALSE,By View,-2009041
+TRUE,Bottom Chord,,,0,,,FALSE,By View,-2009604
+TRUE,Boundary,,,0,,,FALSE,By View,-2009026
+TRUE,Boundary,,,0,,,FALSE,By View,-2008222
+TRUE,Boundary,,,0,,,FALSE,By View,-2009029
+TRUE,Boundary,,,0,,,FALSE,By View,-2008108
+TRUE,Boundary,,,0,,,FALSE,By View,-2009006
+TRUE,Boundary,,,0,,,FALSE,By View,-2009012
+TRUE,Boundary Conditions,,,0,,,FALSE,By View,-2005301
+TRUE,Boundary Point,,,0,,,FALSE,By View,-2001266
+TRUE,Brace in Plan View Symbols,,,0,,,FALSE,By View,-2006110
+TRUE,Bridge Arch Tags,,,0,,,FALSE,By View,-2006174
+TRUE,Bridge Cable Tags,,,0,,,FALSE,By View,-2006173
+TRUE,Bridge Cables,,,0,,,FALSE,By View,-2006133
+TRUE,Bridge Cross Bracing Tags,,,0,,,FALSE,By View,-2006278
+TRUE,Bridge Deck Tags,,,0,,,FALSE,By View,-2006175
+TRUE,Bridge Decks,,,0,,,FALSE,By View,-2006135
+TRUE,Bridge Diaphragm Tags,,,0,,,FALSE,By View,-2006279
+TRUE,Bridge Framing,,,0,,,FALSE,By View,-2006241
+TRUE,Bridge Framing Tags,,,0,,,FALSE,By View,-2006243
+TRUE,Bridge Primary Tags,,,0,,,FALSE,By View,-2006177
+TRUE,Bridge Truss Tags,,,0,,,FALSE,By View,-2006281
+TRUE,Broken Section Line,,,0,,,FALSE,By View,-2000202
+TRUE,Building Type Settings,,,0,,,FALSE,By View,-2008120
+TRUE,Cable Tray Fitting Tags,,,0,,,FALSE,By View,-2008127
+TRUE,Cable Tray Fittings,,,0,,,FALSE,By View,-2008126
+TRUE,Cable Tray Runs,,,0,,,FALSE,By View,-2008150
+TRUE,Cable Tray Tags,,,0,,,FALSE,By View,-2008131
+TRUE,Cable Trays,,,0,,,FALSE,By View,-2008130
+TRUE,Callout Boundary,,,0,,,FALSE,By View,-2000539
+TRUE,Callout Heads,,,0,,,FALSE,By View,-2000538
+TRUE,Callout Leader Line,,,0,,,FALSE,By View,-2000544
+TRUE,Callouts,,,0,,,FALSE,By View,-2000537
+TRUE,Cameras,,,0,,,FALSE,By View,-2000500
+TRUE,Cameras,,,0,,,FALSE,By View,-2000501
+TRUE,Casework,,,0,,,FALSE,By View,-2001000
+TRUE,Casework Tags,,,0,,,FALSE,By View,-2005001
+TRUE,Ceiling Tags,,,0,,,FALSE,By View,-2005002
+TRUE,Ceiling opening cut,,,0,,,FALSE,By View,-2000899
+TRUE,Ceilings,,,0,,,FALSE,By View,-2000038
+TRUE,Ceilings,,,0,,,FALSE,By View,-2008173
+TRUE,Center Line,,,0,,,FALSE,By View,-2008210
+TRUE,Center Line,,,0,,,FALSE,By View,-2008214
+TRUE,Center Line,,,0,,,FALSE,By View,-2008051
+TRUE,Center Line,,,0,,,FALSE,By View,-2008196
+TRUE,Center Line,,,0,,,FALSE,By View,-2008045
+TRUE,Center line,,,0,,,FALSE,By View,-2008021
+TRUE,Center line,,,0,,,FALSE,By View,-2008141
+TRUE,Center line,,,0,,,FALSE,By View,-2008140
+TRUE,Center line,,,0,,,FALSE,By View,-2008072
+TRUE,Center line,,,0,,,FALSE,By View,-2008066
+TRUE,Center line,,,0,,,FALSE,By View,-2008139
+TRUE,Center line,,,0,,,FALSE,By View,-2008001
+TRUE,Center line,,,0,,,FALSE,By View,-2008136
+TRUE,Chord,,,0,,,FALSE,By View,-2009606
+TRUE,Circuit Naming Scheme,,,0,,,FALSE,By View,-2001011
+TRUE,Color Fill,,,0,,,FALSE,By View,-2000551
+TRUE,Color Fill,,,0,,,FALSE,By View,-2003605
+TRUE,Color Fill,,,0,,,FALSE,By View,-2008116
+TRUE,Color Fill,,,0,,,FALSE,By View,-2001027
+TRUE,Color Fill,,,0,,,FALSE,By View,-2000165
+TRUE,Color Fill Legends,,,0,,,FALSE,By View,-2000550
+TRUE,Color Fill Schema,,,0,,,FALSE,By View,-2000552
+TRUE,Column Tags,,,0,,,FALSE,By View,-2001063
+TRUE,Columns,,,0,,,FALSE,By View,-2000100
+TRUE,Common Edges,,,0,,,FALSE,By View,-2000606
+TRUE,Common Edges,,,0,,,FALSE,By View,-2000596
+TRUE,Common Edges,,,0,,,FALSE,By View,-2001085
+TRUE,Common Edges,,,0,,,FALSE,By View,-2000616
+TRUE,Common Edges,,,0,,,FALSE,By View,-2000586
+TRUE,Communication Device Tags,,,0,,,FALSE,By View,-2008082
+TRUE,Communication Devices,,,0,,,FALSE,By View,-2008081
+TRUE,Compass,,,0,,,FALSE,By View,-2009613
+TRUE,Compass,,,0,,,FALSE,By View,-2009615
+TRUE,Compass,,,0,,,FALSE,By View,-2009616
+TRUE,Compass,,,0,,,FALSE,By View,-2009622
+TRUE,Computation height lines,,,0,,,FALSE,By View,-2000116
+TRUE,Conduit Fitting Tags,,,0,,,FALSE,By View,-2008129
+TRUE,Conduit Fittings,,,0,,,FALSE,By View,-2008128
+TRUE,Conduit Runs,,,0,,,FALSE,By View,-2008149
+TRUE,Conduit Standards,,,0,,,FALSE,By View,-2008144
+TRUE,Conduit Tags,,,0,,,FALSE,By View,-2008133
+TRUE,Conduits,,,0,,,FALSE,By View,-2008132
+TRUE,Connection Line Symbol,,,0,,,FALSE,By View,-2000984
+TRUE,Connection Symbols,,,0,,,FALSE,By View,-2006100
+TRUE,Connector Element,,,0,,,FALSE,By View,-2007000
+TRUE,Constraints,,,0,,,FALSE,By View,-2000262
+TRUE,Constructions,,,0,,,FALSE,By View,-2008102
+TRUE,Contour,,,0,,,FALSE,By View,-2008022
+TRUE,Contour,,,0,,,FALSE,By View,-2008052
+TRUE,Contour,,,0,,,FALSE,By View,-2008002
+TRUE,Contour,,,0,,,FALSE,By View,-2008046
+TRUE,Contour Labels,,,0,,,FALSE,By View,-2000350
+TRUE,Coordination Model,,,0,,,FALSE,By View,-2000982
+TRUE,Cover Type,,,0,,,FALSE,By View,-2009014
+TRUE,Crop Boundaries,,,0,,,FALSE,By View,-2000548
+TRUE,Crop Boundaries,,,0,,,FALSE,By View,-2000536
+TRUE,Cross Bracing,,,0,,,FALSE,By View,-2006245
+TRUE,Cross Section,,,0,,,FALSE,By View,-2001075
+TRUE,Curtain Grids,,,0,,,FALSE,By View,-2000173
+TRUE,Curtain Panel Tags,,,0,,,FALSE,By View,-2005012
+TRUE,Curtain Panels,,,0,,,FALSE,By View,-2000170
+TRUE,Curtain Roof Grids,,,0,,,FALSE,By View,-2000320
+TRUE,Curtain System Grid Layout,,,0,,,FALSE,By View,-2000341
+TRUE,Curtain System Grids,,,0,,,FALSE,By View,-2000322
+TRUE,Curtain System Grids,,,0,,,FALSE,By View,-2000323
+TRUE,Curtain System Tags,,,0,,,FALSE,By View,-2005025
+TRUE,Curtain Systems,,,0,,,FALSE,By View,-2000340
+TRUE,Curtain Wall Grids,,,0,,,FALSE,By View,-2000321
+TRUE,Curtain Wall Mullion Tags,,,0,,,FALSE,By View,-2005032
+TRUE,Curtain Wall Mullions,,,0,,,FALSE,By View,-2000171
+TRUE,Cut Marks,,,0,,,FALSE,By View,-2000930
+TRUE,Cut Pattern,,,0,,,FALSE,By View,-2000617
+TRUE,Cut Pattern,,,0,,,FALSE,By View,-2001086
+TRUE,Cut Pattern,,,0,,,FALSE,By View,-2000597
+TRUE,Cut Pattern,,,0,,,FALSE,By View,-2000608
+TRUE,Cut Pattern,,,0,,,FALSE,By View,-2000588
+TRUE,Cut Profile,,,0,,,FALSE,By View,-2006050
+TRUE,Cutting geometry,,,0,,,FALSE,By View,-2000074
+TRUE,DOWN Text,,,0,,,FALSE,By View,-2000129
+TRUE,DOWN text,,,0,,,FALSE,By View,-2003306
+TRUE,Data Device Tags,,,0,,,FALSE,By View,-2008084
+TRUE,Data Devices,,,0,,,FALSE,By View,-2008083
+TRUE,Data Exchanges,,,0,,,FALSE,By View,-2001107
+TRUE,Datum Plane,,,0,,,FALSE,By View,-2000052
+TRUE,Dead Loads,,,0,,,FALSE,By View,-2005211
+TRUE,Default Face Splitter,,,0,,,FALSE,By View,-2003408
+TRUE,Default Host Template,,,0,,,FALSE,By View,-2003409
+TRUE,Default Mass Cutter,,,0,,,FALSE,By View,-2003407
+TRUE,Default Rebar,,,0,,,FALSE,By View,-2009002
+TRUE,Default Zoning Envelope,,,0,,,FALSE,By View,-2003406
+TRUE,Demand Factors,,,0,,,FALSE,By View,-2008042
+TRUE,Demolished,,,0,,,FALSE,By View,-2000103
+TRUE,Design Option Sets,,,0,,,FALSE,By View,-2006112
+TRUE,Design Options,,,0,,,FALSE,By View,-2006114
+TRUE,Detail Groups,,,0,,,FALSE,By View,-2000096
+TRUE,Detail Item Tags,,,0,,,FALSE,By View,-2005028
+TRUE,Detail Items,,,0,,,FALSE,By View,-2002000
+TRUE,Diaphragms,,,0,,,FALSE,By View,-2006246
+TRUE,Dim Lock Control Leader,,,0,,,FALSE,By View,-2000832
+TRUE,Dimensions,,,0,,,FALSE,By View,-2000260
+TRUE,Discarded Division Lines,,,0,,,FALSE,By View,-2003333
+TRUE,Displacement Path,,,0,,,FALSE,By View,-2000223
+TRUE,Displacement Set,,,0,,,FALSE,By View,-2000222
+TRUE,Distribution Systems,,,0,,,FALSE,By View,-2008041
+TRUE,Divided Path,,,0,,,FALSE,By View,-2000926
+TRUE,Divided Surface,,,0,,,FALSE,By View,-2003323
+TRUE,Division Profiles,,,0,,,FALSE,By View,-2008165
+TRUE,Division Rules,,,0,,,FALSE,By View,-2008190
+TRUE,Divisions,,,0,,,FALSE,By View,-2000291
+TRUE,Door Tags,,,0,,,FALSE,By View,-2000460
+TRUE,Doors,,,0,,,FALSE,By View,-2000023
+TRUE,Down Arrow,,,0,,,FALSE,By View,-2003308
+TRUE,Down Arrows,,,0,,,FALSE,By View,-2000131
+TRUE,Drop,,,0,,,FALSE,By View,-2008135
+TRUE,Drop,,,0,,,FALSE,By View,-2008206
+TRUE,Drop,,,0,,,FALSE,By View,-2008219
+TRUE,Drop,,,0,,,FALSE,By View,-2008138
+TRUE,Drop,,,0,,,FALSE,By View,-2008069
+TRUE,Drop,,,0,,,FALSE,By View,-2008217
+TRUE,Drop,,,0,,,FALSE,By View,-2008062
+TRUE,Duct Accessories,,,0,,,FALSE,By View,-2008016
+TRUE,Duct Accessory Tags,,,0,,,FALSE,By View,-2008017
+TRUE,Duct Color Fill,,,0,,,FALSE,By View,-2008005
+TRUE,Duct Color Fill Legends,,,0,,,FALSE,By View,-2007004
+TRUE,Duct Fitting Tags,,,0,,,FALSE,By View,-2008061
+TRUE,Duct Fittings,,,0,,,FALSE,By View,-2008010
+TRUE,Duct Insulation Tags,,,0,,,FALSE,By View,-2008153
+TRUE,Duct Insulations,,,0,,,FALSE,By View,-2008123
+TRUE,Duct Lining Tags,,,0,,,FALSE,By View,-2008154
+TRUE,Duct Linings,,,0,,,FALSE,By View,-2008124
+TRUE,Duct Placeholders,,,0,,,FALSE,By View,-2008160
+TRUE,Duct Systems,,,0,,,FALSE,By View,-2008015
+TRUE,Duct Tags,,,0,,,FALSE,By View,-2008003
+TRUE,Ducts,,,0,,,FALSE,By View,-2008000
+TRUE,Electrical Analytical Branch,,,0,,,FALSE,By View,-2001022
+TRUE,Electrical Analytical Bus,,,0,,,FALSE,By View,-2001021
+TRUE,Electrical Analytical Load Scenario,,,0,,,FALSE,By View,-2001099
+TRUE,Electrical Analytical Load Set,,,0,,,FALSE,By View,-2001098
+TRUE,Electrical Analytical Loads,,,0,,,FALSE,By View,-2001020
+TRUE,Electrical Analytical Power Source,,,0,,,FALSE,By View,-2001026
+TRUE,Electrical Analytical Transfer Switch,,,0,,,FALSE,By View,-2001023
+TRUE,Electrical Analytical Transformer,,,0,,,FALSE,By View,-2001077
+TRUE,Electrical Circuits,,,0,,,FALSE,By View,-2008037
+TRUE,Electrical Connector,,,0,,,FALSE,By View,-2001101
+TRUE,Electrical Connector Tags,,,0,,,FALSE,By View,-2001102
+TRUE,Electrical Demand Factor Definitions,,,0,,,FALSE,By View,-2008142
+TRUE,Electrical Equipment,,,0,,,FALSE,By View,-2001040
+TRUE,Electrical Equipment Tags,,,0,,,FALSE,By View,-2005003
+TRUE,Electrical Fixture Tags,,,0,,,FALSE,By View,-2005004
+TRUE,Electrical Fixtures,,,0,,,FALSE,By View,-2001060
+TRUE,Electrical Load Areas,,,0,,,FALSE,By View,-2001024
+TRUE,Electrical Load Classification Parameter Element,,,0,,,FALSE,By View,-2008148
+TRUE,Electrical Load Classifications,,,0,,,FALSE,By View,-2008143
+TRUE,Electrical Spare/Space Circuits,,,0,,,FALSE,By View,-2008152
+TRUE,Elevation Marks,,,0,,,FALSE,By View,-2006045
+TRUE,Elevations,,,0,,,FALSE,By View,-2000535
+TRUE,End Segment,,,0,,,FALSE,By View,-2009632
+TRUE,End Segment,,,0,,,FALSE,By View,-2009635
+TRUE,Entourage,,,0,,,FALSE,By View,-2001370
+TRUE,Entourage Tags,,,0,,,FALSE,By View,-2001064
+TRUE,Existing,,,0,,,FALSE,By View,-2000102
+TRUE,Expansion Joint Tags,,,0,,,FALSE,By View,-2006273
+TRUE,Expansion Joints,,,0,,,FALSE,By View,-2006271
+TRUE,Exterior,,,0,,,FALSE,By View,-2008092
+TRUE,Exterior Walls,,,0,,,FALSE,By View,-2008167
+TRUE,Fabric Wire,,,0,,,FALSE,By View,-2009027
+TRUE,Fabrication Parts drop temp graphic display,,,0,,,FALSE,By View,-2008200
+TRUE,Fabrication Parts drop temp graphic display while dragging,,,0,,,FALSE,By View,-2008202
+TRUE,Fabrication Parts rise temp graphic display,,,0,,,FALSE,By View,-2008199
+TRUE,Fabrication Parts rise temp graphic display while dragging,,,0,,,FALSE,By View,-2008201
+TRUE,Fascia Tags,,,0,,,FALSE,By View,-2001062
+TRUE,Fascias,,,0,,,FALSE,By View,-2001390
+TRUE,Filled region,,,0,,,FALSE,By View,-2000190
+TRUE,Finish 1 [4],,,0,,,FALSE,By View,-2000604
+TRUE,Finish 1 [4],,,0,,,FALSE,By View,-2000614
+TRUE,Finish 1 [4],,,0,,,FALSE,By View,-2000584
+TRUE,Finish 1 [4],,,0,,,FALSE,By View,-2000594
+TRUE,Finish 1 [4],,,0,,,FALSE,By View,-2001090
+TRUE,Finish 2 [5],,,0,,,FALSE,By View,-2000585
+TRUE,Finish 2 [5],,,0,,,FALSE,By View,-2000615
+TRUE,Finish 2 [5],,,0,,,FALSE,By View,-2000595
+TRUE,Finish 2 [5],,,0,,,FALSE,By View,-2000605
+TRUE,Finish 2 [5],,,0,,,FALSE,By View,-2001091
+TRUE,Fire Alarm Device Tags,,,0,,,FALSE,By View,-2008086
+TRUE,Fire Alarm Devices,,,0,,,FALSE,By View,-2008085
+TRUE,Fire Protection,,,0,,,FALSE,By View,-2001049
+TRUE,Fire Protection Tags,,,0,,,FALSE,By View,-2001051
+TRUE,Fixed Skylights,,,0,,,FALSE,By View,-2008180
+TRUE,Fixed Windows,,,0,,,FALSE,By View,-2008178
+TRUE,Flex Duct Tags,,,0,,,FALSE,By View,-2008004
+TRUE,Flex Ducts,,,0,,,FALSE,By View,-2008020
+TRUE,Flex Pipe Tags,,,0,,,FALSE,By View,-2008048
+TRUE,Flex Pipes,,,0,,,FALSE,By View,-2008050
+TRUE,Flip Control,,,0,,,FALSE,By View,-2000056
+TRUE,Floor Layers,,,0,,,FALSE,By View,-2001106
+TRUE,Floor Tags,,,0,,,FALSE,By View,-2005026
+TRUE,Floor opening cut,,,0,,,FALSE,By View,-2000898
+TRUE,Floors,,,0,,,FALSE,By View,-2000032
+TRUE,Fluids,,,0,,,FALSE,By View,-2008106
+TRUE,Folding Lines,,,0,,,FALSE,By View,-2001083
+TRUE,Folding Lines,,,0,,,FALSE,By View,-2000609
+TRUE,Food Service Equipment,,,0,,,FALSE,By View,-2001043
+TRUE,Food Service Equipment Tags,,,0,,,FALSE,By View,-2001045
+TRUE,Form,,,0,,,FALSE,By View,-2003404
+TRUE,Foundation Span Direction Symbol,,,0,,,FALSE,By View,-2005111
+TRUE,Frame/Mullion,,,0,,,FALSE,By View,-2000018
+TRUE,Frame/Mullion,,,0,,,FALSE,By View,-2000029
+TRUE,Furniture,,,0,,,FALSE,By View,-2000080
+TRUE,Furniture System Tags,,,0,,,FALSE,By View,-2005007
+TRUE,Furniture Systems,,,0,,,FALSE,By View,-2001100
+TRUE,Furniture Tags,,,0,,,FALSE,By View,-2005006
+TRUE,Future,,,0,,,FALSE,By View,-2000106
+TRUE,Generic Annotations,,,0,,,FALSE,By View,-2000150
+TRUE,Generic Model Tags,,,0,,,FALSE,By View,-2005013
+TRUE,Generic Models,,,0,,,FALSE,By View,-2000151
+TRUE,Ghost,,,0,,,FALSE,By View,-2000071
+TRUE,Glass,,,0,,,FALSE,By View,-2000016
+TRUE,Glass,,,0,,,FALSE,By View,-2000031
+TRUE,Grid Heads,,,0,,,FALSE,By View,-2006040
+TRUE,Gridlines,,,0,,,FALSE,By View,-2003325
+TRUE,Grids,,,0,,,FALSE,By View,-2000220
+TRUE,Groups,,,0,,,FALSE,By View,-2000072
+TRUE,Guide Grid,,,0,,,FALSE,By View,-2000107
+TRUE,Gutter Tags,,,0,,,FALSE,By View,-2001065
+TRUE,Gutters,,,0,,,FALSE,By View,-2001391
+TRUE,HVAC Load Schedules,,,0,,,FALSE,By View,-2008121
+TRUE,HVAC Zones,,,0,,,FALSE,By View,-2008107
+TRUE,Handrail Tags,,,0,,,FALSE,By View,-2001066
+TRUE,Handrails,,,0,,,FALSE,By View,-2000947
+TRUE,Hardscape,,,0,,,FALSE,By View,-2001036
+TRUE,Hardscape Tags,,,0,,,FALSE,By View,-2001038
+TRUE,Hardware,,,0,,,FALSE,By View,-2000910
+TRUE,Hole Tags,,,0,,,FALSE,By View,-2009063
+TRUE,Holes,,,0,,,FALSE,By View,-2009045
+TRUE,Home Run Arrows,,,0,,,FALSE,By View,-2008089
+TRUE,Hydraulic Separation Symbols,,,0,,,FALSE,By View,-2000988
+TRUE,Imports in Families,,,0,,,FALSE,By View,-2000196
+TRUE,Incomplete dormer opening,,,0,,,FALSE,By View,-2000998
+TRUE,Insulation,,,0,,,FALSE,By View,-2008070
+TRUE,Insulation,,,0,,,FALSE,By View,-2008071
+TRUE,Insulation,,,0,,,FALSE,By View,-2008063
+TRUE,Insulation,,,0,,,FALSE,By View,-2008073
+TRUE,Insulation,,,0,,,FALSE,By View,-2008065
+TRUE,Insulation,,,0,,,FALSE,By View,-2008067
+TRUE,Insulation,,,0,,,FALSE,By View,-2008198
+TRUE,Insulation,,,0,,,FALSE,By View,-2008221
+TRUE,Interior,,,0,,,FALSE,By View,-2008091
+TRUE,Interior,,,0,,,FALSE,By View,-2003603
+TRUE,Interior,,,0,,,FALSE,By View,-2003601
+TRUE,Interior,,,0,,,FALSE,By View,-2001030
+TRUE,Interior Edges,,,0,,,FALSE,By View,-2000598
+TRUE,Interior Fill,,,0,,,FALSE,By View,-2008117
+TRUE,Interior Fill,,,0,,,FALSE,By View,-2008109
+TRUE,Interior Fill,,,0,,,FALSE,By View,-2008226
+TRUE,Interior Fill,,,0,,,FALSE,By View,-2000163
+TRUE,Interior Fill,,,0,,,FALSE,By View,-2000161
+TRUE,Interior Fill,,,0,,,FALSE,By View,-2008223
+TRUE,Interior Fill,,,0,,,FALSE,By View,-2000168
+TRUE,Interior Fill,,,0,,,FALSE,By View,-2000166
+TRUE,Interior Fill,,,0,,,FALSE,By View,-2001028
+TRUE,Interior Floors,,,0,,,FALSE,By View,-2008172
+TRUE,Interior Point,,,0,,,FALSE,By View,-2001262
+TRUE,Interior Walls,,,0,,,FALSE,By View,-2008171
+TRUE,Internal Origin,,,0,,,FALSE,By View,-2000977
+TRUE,Keynote Tags,,,0,,,FALSE,By View,-2005029
+TRUE,Kicker Bracing,,,0,,,FALSE,By View,-2001328
+TRUE,Landings,,,0,,,FALSE,By View,-2000920
+TRUE,Layout Nodes,,,0,,,FALSE,By View,-2008197
+TRUE,Layout Path Base - Pipings,,,0,,,FALSE,By View,-2008192
+TRUE,Layout Path Bases,,,0,,,FALSE,By View,-2008114
+TRUE,Legend Components,,,0,,,FALSE,By View,-2000576
+TRUE,Legend Components,,,0,,,FALSE,By View,-2000575
+TRUE,Level Heads,,,0,,,FALSE,By View,-2006020
+TRUE,Levels,,,0,,,FALSE,By View,-2000240
+TRUE,Light Source,,,0,,,FALSE,By View,-2001121
+TRUE,Lighting Device Tags,,,0,,,FALSE,By View,-2008088
+TRUE,Lighting Devices,,,0,,,FALSE,By View,-2008087
+TRUE,Lighting Fixture Tags,,,0,,,FALSE,By View,-2005008
+TRUE,Lighting Fixtures,,,0,,,FALSE,By View,-2001120
+TRUE,Lights,,,0,,,FALSE,By View,-2000520
+TRUE,Line Load Tags,,,0,,,FALSE,By View,-2005251
+TRUE,Line Loads,,,0,,,FALSE,By View,-2005202
+TRUE,Lines,,,0,,,FALSE,By View,-2000051
+TRUE,Lines,,,0,,,FALSE,By View,-2009648
+TRUE,Lines,,,0,,,FALSE,By View,-2000903
+TRUE,Lines,,,0,,,FALSE,By View,-2009661
+TRUE,Lines,,,0,,,FALSE,By View,-2000713
+TRUE,Lining,,,0,,,FALSE,By View,-2008064
+TRUE,Lining,,,0,,,FALSE,By View,-2008220
+TRUE,Lining,,,0,,,FALSE,By View,-2008068
+TRUE,Link Base Point,,,0,,,FALSE,By View,-2001276
+TRUE,Live Loads,,,0,,,FALSE,By View,-2005212
+TRUE,Local Coordinate System,,,0,,,FALSE,By View,-2009667
+TRUE,Local Coordinate System,,,0,,,FALSE,By View,-2000976
+TRUE,Local Coordinate System,,,0,,,FALSE,By View,-2000975
+TRUE,Local Coordinate System,,,0,,,FALSE,By View,-2000974
+TRUE,Local Coordinate System,,,0,,,FALSE,By View,-2000973
+TRUE,Local Coordinate System,,,0,,,FALSE,By View,-2000972
+TRUE,Local Coordinate System,,,0,,,FALSE,By View,-2000971
+TRUE,Local Coordinate System,,,0,,,FALSE,By View,-2009666
+TRUE,Location Data,,,0,,,FALSE,By View,-2000111
+TRUE,Location Lines,,,0,,,FALSE,By View,-2001357
+TRUE,Location Lines,,,0,,,FALSE,By View,-2001356
+TRUE,Lower Value Prefix,,,0,,,FALSE,By View,-2009007
+TRUE,MEP Ancillary Framing,,,0,,,FALSE,By View,-2008231
+TRUE,MEP Ancillary Framing Tags,,,0,,,FALSE,By View,-2008236
+TRUE,MEP Fabrication Containment,,,0,,,FALSE,By View,-2008212
+TRUE,MEP Fabrication Containment Tags,,,0,,,FALSE,By View,-2008213
+TRUE,MEP Fabrication Ductwork,,,0,,,FALSE,By View,-2008193
+TRUE,MEP Fabrication Ductwork Stiffener Tags,,,0,,,FALSE,By View,-2008229
+TRUE,MEP Fabrication Ductwork Stiffeners,,,0,,,FALSE,By View,-2008228
+TRUE,MEP Fabrication Ductwork Tags,,,0,,,FALSE,By View,-2008194
+TRUE,MEP Fabrication Hanger Tags,,,0,,,FALSE,By View,-2008204
+TRUE,MEP Fabrication Hangers,,,0,,,FALSE,By View,-2008203
+TRUE,MEP Fabrication Pipework,,,0,,,FALSE,By View,-2008208
+TRUE,MEP Fabrication Pipework Tags,,,0,,,FALSE,By View,-2008209
+TRUE,Masking Region,,,0,,,FALSE,By View,-2000194
+TRUE,Mass,,,0,,,FALSE,By View,-2003400
+TRUE,Mass Exterior Wall,,,0,,,FALSE,By View,-2003413
+TRUE,Mass Exterior Wall - Underground,,,0,,,FALSE,By View,-2003420
+TRUE,Mass Floor,,,0,,,FALSE,By View,-2003403
+TRUE,Mass Floor Tags,,,0,,,FALSE,By View,-2003410
+TRUE,Mass Floors,,,0,,,FALSE,By View,-2003422
+TRUE,Mass Glazing,,,0,,,FALSE,By View,-2003415
+TRUE,Mass Interior Wall,,,0,,,FALSE,By View,-2003412
+TRUE,Mass Opening,,,0,,,FALSE,By View,-2003417
+TRUE,Mass Roof,,,0,,,FALSE,By View,-2003414
+TRUE,Mass Shade,,,0,,,FALSE,By View,-2003418
+TRUE,Mass Skylight,,,0,,,FALSE,By View,-2003416
+TRUE,Mass Slab,,,0,,,FALSE,By View,-2003419
+TRUE,Mass Tags,,,0,,,FALSE,By View,-2003405
+TRUE,Mass Walls,,,0,,,FALSE,By View,-2003421
+TRUE,Mass Windows and Skylights,,,0,,,FALSE,By View,-2003423
+TRUE,Mass Zone,,,0,,,FALSE,By View,-2003411
+TRUE,Massing,,,0,,,FALSE,By View,-2000185
+TRUE,Matchline,,,0,,,FALSE,By View,-2000193
+TRUE,Material Assets,,,0,,,FALSE,By View,-2000924
+TRUE,Material Tags,,,0,,,FALSE,By View,-2005027
+TRUE,Materials,,,0,,,FALSE,By View,-2000700
+TRUE,Mechanical Control Device Tags,,,0,,,FALSE,By View,-2008233
+TRUE,Mechanical Control Devices,,,0,,,FALSE,By View,-2008232
+TRUE,Mechanical Equipment,,,0,,,FALSE,By View,-2001140
+TRUE,Mechanical Equipment Set Boundary Lines,,,0,,,FALSE,By View,-2000987
+TRUE,Mechanical Equipment Set Tags,,,0,,,FALSE,By View,-2000986
+TRUE,Mechanical Equipment Sets,,,0,,,FALSE,By View,-2000985
+TRUE,Mechanical Equipment Tags,,,0,,,FALSE,By View,-2005009
+TRUE,Medical Equipment,,,0,,,FALSE,By View,-2001046
+TRUE,Medical Equipment Tags,,,0,,,FALSE,By View,-2001048
+TRUE,Membrane Layer,,,0,,,FALSE,By View,-2000600
+TRUE,Membrane Layer,,,0,,,FALSE,By View,-2000590
+TRUE,Membrane Layer,,,0,,,FALSE,By View,-2000580
+TRUE,Membrane Layer,,,0,,,FALSE,By View,-2000610
+TRUE,Membrane Layer,,,0,,,FALSE,By View,-2001087
+TRUE,Model Group Tags,,,0,,,FALSE,By View,-2001073
+TRUE,Model Groups,,,0,,,FALSE,By View,-2000095
+TRUE,Modifiers,,,0,,,FALSE,By View,-2009047
+TRUE,Multi Leader Tag,,,0,,,FALSE,By View,-2005033
+TRUE,Multi-Category Tags,,,0,,,FALSE,By View,-2005022
+TRUE,Multi-Rebar Annotations,,,0,,,FALSE,By View,-2000970
+TRUE,Multi-segmented Grid,,,0,,,FALSE,By View,-2000221
+TRUE,Multistory Stairs,,,0,,,FALSE,By View,-2000980
+TRUE,New,,,0,,,FALSE,By View,-2000104
+TRUE,Nodes,,,0,,,FALSE,By View,-2003324
+TRUE,Non-Core Layers,,,0,,,FALSE,By View,-2001034
+TRUE,Non-sliding Doors,,,0,,,FALSE,By View,-2008183
+TRUE,Nosing Lines,,,0,,,FALSE,By View,-2000932
+TRUE,Nurse Call Device Tags,,,0,,,FALSE,By View,-2008078
+TRUE,Nurse Call Devices,,,0,,,FALSE,By View,-2008077
+TRUE,Opening,,,0,,,FALSE,By View,-2000027
+TRUE,Opening,,,0,,,FALSE,By View,-2000022
+TRUE,Opening,,,0,,,FALSE,By View,-2008095
+TRUE,Opening cut,,,0,,,FALSE,By View,-2000810
+TRUE,Operable Skylights,,,0,,,FALSE,By View,-2008181
+TRUE,Operable Windows,,,0,,,FALSE,By View,-2008179
+TRUE,Other,,,0,,,FALSE,By View,-2001321
+TRUE,Other,,,0,,,FALSE,By View,-1
+TRUE,Others,,,0,,,FALSE,By View,-2009042
+TRUE,Outlines,,,0,,,FALSE,By View,-2000934
+TRUE,Pad Tags,,,0,,,FALSE,By View,-2001067
+TRUE,Pads,,,0,,,FALSE,By View,-2001263
+TRUE,Panel,,,0,,,FALSE,By View,-2000025
+TRUE,Panel Schedule Graphics,,,0,,,FALSE,By View,-2008151
+TRUE,Panel Schedule Templates - Branch Panel,,,0,,,FALSE,By View,-2008145
+TRUE,Panel Schedule Templates - Data Panel,,,0,,,FALSE,By View,-2008147
+TRUE,Panel Schedule Templates - Switchboard,,,0,,,FALSE,By View,-2008146
+TRUE,Panels,,,0,,,FALSE,By View,-2000909
+TRUE,Parking,,,0,,,FALSE,By View,-2001180
+TRUE,Parking Tags,,,0,,,FALSE,By View,-2005017
+TRUE,Part Tags,,,0,,,FALSE,By View,-2000270
+TRUE,Parts,,,0,,,FALSE,By View,-2000269
+TRUE,Path of Travel Tags,,,0,,,FALSE,By View,-2000834
+TRUE,Path1,,,0,,,FALSE,By View,-2009611
+TRUE,Path2,,,0,,,FALSE,By View,-2009612
+TRUE,Pattern,,,0,,,FALSE,By View,-2003331
+TRUE,Pattern,,,0,,,FALSE,By View,-2008053
+TRUE,Pattern,,,0,,,FALSE,By View,-2008023
+TRUE,Pattern Fill,,,0,,,FALSE,By View,-2003327
+TRUE,Pattern Lines,,,0,,,FALSE,By View,-2003326
+TRUE,Phases,,,0,,,FALSE,By View,-2000112
+TRUE,Pier Cap Tags,,,0,,,FALSE,By View,-2006220
+TRUE,Pier Caps,,,0,,,FALSE,By View,-2006219
+TRUE,Pier Column Tags,,,0,,,FALSE,By View,-2006222
+TRUE,Pier Columns,,,0,,,FALSE,By View,-2006221
+TRUE,Pier Foundation Tags,,,0,,,FALSE,By View,-2006176
+TRUE,Pier Foundations,,,0,,,FALSE,By View,-2006136
+TRUE,Pier Pile Tags,,,0,,,FALSE,By View,-2006226
+TRUE,Pier Piles,,,0,,,FALSE,By View,-2006225
+TRUE,Pier Tags,,,0,,,FALSE,By View,-2006171
+TRUE,Pier Tower Tags,,,0,,,FALSE,By View,-2006172
+TRUE,Pier Towers,,,0,,,FALSE,By View,-2006132
+TRUE,Pier Wall Tags,,,0,,,FALSE,By View,-2006230
+TRUE,Pier Walls,,,0,,,FALSE,By View,-2006229
+TRUE,Piers,,,0,,,FALSE,By View,-2006131
+TRUE,Pipe Accessories,,,0,,,FALSE,By View,-2008055
+TRUE,Pipe Accessory Tags,,,0,,,FALSE,By View,-2008056
+TRUE,Pipe Color Fill,,,0,,,FALSE,By View,-2008059
+TRUE,Pipe Color Fill Legends,,,0,,,FALSE,By View,-2008058
+TRUE,Pipe Connections,,,0,,,FALSE,By View,-2008103
+TRUE,Pipe Fitting Tags,,,0,,,FALSE,By View,-2008060
+TRUE,Pipe Fittings,,,0,,,FALSE,By View,-2008049
+TRUE,Pipe Insulation Tags,,,0,,,FALSE,By View,-2008155
+TRUE,Pipe Insulations,,,0,,,FALSE,By View,-2008122
+TRUE,Pipe Materials,,,0,,,FALSE,By View,-2008104
+TRUE,Pipe Placeholders,,,0,,,FALSE,By View,-2008161
+TRUE,Pipe Schedules,,,0,,,FALSE,By View,-2008105
+TRUE,Pipe Segments,,,0,,,FALSE,By View,-2008163
+TRUE,Pipe Tags,,,0,,,FALSE,By View,-2008047
+TRUE,Pipes,,,0,,,FALSE,By View,-2008044
+TRUE,Piping Systems,,,0,,,FALSE,By View,-2008043
+TRUE,Plan Bracing,,,0,,,FALSE,By View,-2001325
+TRUE,Plan Region,,,0,,,FALSE,By View,-2000191
+TRUE,Planes,,,0,,,FALSE,By View,-2009660
+TRUE,Planes,,,0,,,FALSE,By View,-2009647
+TRUE,Planes,,,0,,,FALSE,By View,-2000712
+TRUE,Planes,,,0,,,FALSE,By View,-2000902
+TRUE,Planting,,,0,,,FALSE,By View,-2001360
+TRUE,Planting Tags,,,0,,,FALSE,By View,-2005021
+TRUE,Plate Tags,,,0,,,FALSE,By View,-2009055
+TRUE,Plates,,,0,,,FALSE,By View,-2009038
+TRUE,Plumbing Equipment,,,0,,,FALSE,By View,-2008234
+TRUE,Plumbing Equipment Tags,,,0,,,FALSE,By View,-2008235
+TRUE,Plumbing Fixture Tags,,,0,,,FALSE,By View,-2005010
+TRUE,Plumbing Fixtures,,,0,,,FALSE,By View,-2001160
+TRUE,Point Clouds,,,0,,,FALSE,By View,-2010001
+TRUE,Point Load Tags,,,0,,,FALSE,By View,-2005250
+TRUE,Point Loads,,,0,,,FALSE,By View,-2005201
+TRUE,Points,,,0,,,FALSE,By View,-2000711
+TRUE,Points,,,0,,,FALSE,By View,-2009646
+TRUE,Points,,,0,,,FALSE,By View,-2009659
+TRUE,Points,,,0,,,FALSE,By View,-2000901
+TRUE,Posts,,,0,,,FALSE,By View,-2000907
+TRUE,Pre-Divided Surface,,,0,,,FALSE,By View,-2003328
+TRUE,Primary,,,0,,,FALSE,By View,-2001322
+TRUE,Primary Contours,,,0,,,FALSE,By View,-2001081
+TRUE,Primary Contours,,,0,,,FALSE,By View,-2001342
+TRUE,Primarys,,,0,,,FALSE,By View,-2006137
+TRUE,Profile Tags,,,0,,,FALSE,By View,-2009064
+TRUE,Profiles,,,0,,,FALSE,By View,-2003000
+TRUE,Profiles,,,0,,,FALSE,By View,-2009037
+TRUE,Project Base Point,,,0,,,FALSE,By View,-2001271
+TRUE,Project Information,,,0,,,FALSE,By View,-2003101
+TRUE,Property Line Segment Tags,,,0,,,FALSE,By View,-2001269
+TRUE,Property Line Segments,,,0,,,FALSE,By View,-2001268
+TRUE,Property Lines,,,0,,,FALSE,By View,-2001265
+TRUE,Property Tags,,,0,,,FALSE,By View,-2001267
+TRUE,RVT Link Tags,,,0,,,FALSE,By View,-2001074
+TRUE,RVT Links,,,0,,,FALSE,By View,-2001352
+TRUE,Railing Rail Path Extension Lines,,,0,,,FALSE,By View,-2000954
+TRUE,Railing Rail Path Lines,,,0,,,FALSE,By View,-2000953
+TRUE,Railing Tags,,,0,,,FALSE,By View,-2000133
+TRUE,Railings,,,0,,,FALSE,By View,-2000126
+TRUE,Rails,,,0,,,FALSE,By View,-2000128
+TRUE,Raised Floors,,,0,,,FALSE,By View,-2008169
+TRUE,Ramp Tags,,,0,,,FALSE,By View,-2001068
+TRUE,Ramps,,,0,,,FALSE,By View,-2000180
+TRUE,Ramps Beyond Cut Line,,,0,,,FALSE,By View,-2003302
+TRUE,Raster Images,,,0,,,FALSE,By View,-2000560
+TRUE,Rebar Cover References,,,0,,,FALSE,By View,-2009015
+TRUE,Rebar Set Toggle,,,0,,,FALSE,By View,-2009025
+TRUE,Rebar Shape,,,0,,,FALSE,By View,-2009013
+TRUE,Rebar Sketch Lines,,,0,,,FALSE,By View,-2009001
+TRUE,Rectangular Arc Wall Opening,,,0,,,FALSE,By View,-2000999
+TRUE,Rectangular Straight Wall Opening,,,0,,,FALSE,By View,-2000997
+TRUE,Reference,,,0,,,FALSE,By View,-2000169
+TRUE,Reference,,,0,,,FALSE,By View,-2000164
+TRUE,Reference,,,0,,,FALSE,By View,-2000167
+TRUE,Reference,,,0,,,FALSE,By View,-2003602
+TRUE,Reference,,,0,,,FALSE,By View,-2001029
+TRUE,Reference,,,0,,,FALSE,By View,-2001031
+TRUE,Reference,,,0,,,FALSE,By View,-2003604
+TRUE,Reference,,,0,,,FALSE,By View,-2009036
+TRUE,Reference,,,0,,,FALSE,By View,-2000162
+TRUE,Reference Lines,,,0,,,FALSE,By View,-2008227
+TRUE,Reference Lines,,,0,,,FALSE,By View,-2008224
+TRUE,Reference Lines,,,0,,,FALSE,By View,-2008118
+TRUE,Reference Lines,,,0,,,FALSE,By View,-2008110
+TRUE,Reference Lines,,,0,,,FALSE,By View,-2000083
+TRUE,Reference Lines,,,0,,,FALSE,By View,-2008159
+TRUE,Reference Lines,,,0,,,FALSE,By View,-2008158
+TRUE,Reference Lines,,,0,,,FALSE,By View,-2008157
+TRUE,Reference Lines,,,0,,,FALSE,By View,-2008156
+TRUE,Reference Planes,,,0,,,FALSE,By View,-2000530
+TRUE,Reference Planes,,,0,,,FALSE,By View,-2000896
+TRUE,Reference Points,,,0,,,FALSE,By View,-2000710
+TRUE,Regenerating elements.,,,0,,,FALSE,By View,-2000046
+TRUE,Regeneration Failure,,,0,,,FALSE,By View,-2000010
+TRUE,Render Regions,,,0,,,FALSE,By View,-2000302
+TRUE,Repeated Component,,,0,,,FALSE,By View,-2000928
+TRUE,Repeater,,,0,,,FALSE,By View,-2000927
+TRUE,Reveals,,,0,,,FALSE,By View,-2000182
+TRUE,Revision,,,0,,,FALSE,By View,-2006070
+TRUE,Revision Cloud Tags,,,0,,,FALSE,By View,-2006080
+TRUE,Revision Clouds,,,0,,,FALSE,By View,-2006060
+TRUE,Revision Numbering Sequences,,,0,,,FALSE,By View,-2006071
+TRUE,Rigid Links,,,0,,,FALSE,By View,-2001333
+TRUE,Rigid Links,,,0,,,FALSE,By View,-2009644
+TRUE,Rigid Links,,,0,,,FALSE,By View,-2001344
+TRUE,Rise,,,0,,,FALSE,By View,-2008036
+TRUE,Rise,,,0,,,FALSE,By View,-2008054
+TRUE,Rise,,,0,,,FALSE,By View,-2008134
+TRUE,Rise,,,0,,,FALSE,By View,-2008205
+TRUE,Rise,,,0,,,FALSE,By View,-2008137
+TRUE,Rise,,,0,,,FALSE,By View,-2008218
+TRUE,Rise,,,0,,,FALSE,By View,-2008216
+TRUE,Rise Drop Symbols,,,0,,,FALSE,By View,-2000989
+TRUE,Riser Lines,,,0,,,FALSE,By View,-2000936
+TRUE,Road Tags,,,0,,,FALSE,By View,-2001221
+TRUE,Roads,,,0,,,FALSE,By View,-2001220
+TRUE,Roof Live Loads,,,0,,,FALSE,By View,-2005215
+TRUE,Roof Soffit Tags,,,0,,,FALSE,By View,-2001069
+TRUE,Roof Soffits,,,0,,,FALSE,By View,-2001393
+TRUE,Roof Tags,,,0,,,FALSE,By View,-2000266
+TRUE,Roof opening cut,,,0,,,FALSE,By View,-2000897
+TRUE,Roofs,,,0,,,FALSE,By View,-2008168
+TRUE,Roofs,,,0,,,FALSE,By View,-2000035
+TRUE,Room Calculation Point,,,0,,,FALSE,By View,-2000925
+TRUE,Room Polylines,,,0,,,FALSE,By View,-2000829
+TRUE,Room Tags,,,0,,,FALSE,By View,-2000480
+TRUE,Room/Area Report,,,0,,,FALSE,By View,-2000325
+TRUE,Room/Area Report,,,0,,,FALSE,By View,-2000326
+TRUE,Room/Area Report,,,0,,,FALSE,By View,-2000327
+TRUE,Room/Area Report,,,0,,,FALSE,By View,-2000328
+TRUE,Rooms,,,0,,,FALSE,By View,-2000160
+TRUE,Route Curve,,,0,,,FALSE,By View,-2008098
+TRUE,Route Curve,,,0,,,FALSE,By View,-2008097
+TRUE,Route Curve,,,0,,,FALSE,By View,-2008096
+TRUE,Routing Preferences,,,0,,,FALSE,By View,-2008125
+TRUE,Ruled Curtain System,,,0,,,FALSE,By View,-2000090
+TRUE,Runs,,,0,,,FALSE,By View,-2000919
+TRUE,Schedule Graphics,,,0,,,FALSE,By View,-2000570
+TRUE,Schedules,,,0,,,FALSE,By View,-2000573
+TRUE,Scope Boxes,,,0,,,FALSE,By View,-2006000
+TRUE,Secondary,,,0,,,FALSE,By View,-2001323
+TRUE,Secondary Contours,,,0,,,FALSE,By View,-2001082
+TRUE,Secondary Contours,,,0,,,FALSE,By View,-2001343
+TRUE,Section Boxes,,,0,,,FALSE,By View,-2000301
+TRUE,Section Line,,,0,,,FALSE,By View,-2000201
+TRUE,Section Marks,,,0,,,FALSE,By View,-2000400
+TRUE,Sections,,,0,,,FALSE,By View,-2000200
+TRUE,Security Device Tags,,,0,,,FALSE,By View,-2008080
+TRUE,Security Devices,,,0,,,FALSE,By View,-2008079
+TRUE,Segments,,,0,,,FALSE,By View,-2000906
+TRUE,Seismic Loads,,,0,,,FALSE,By View,-2005218
+TRUE,Shades,,,0,,,FALSE,By View,-2008187
+TRUE,Shades,,,0,,,FALSE,By View,-2008093
+TRUE,Shaft Openings,,,0,,,FALSE,By View,-2000996
+TRUE,Shared Site,,,0,,,FALSE,By View,-2000110
+TRUE,Shear Stud Tags,,,0,,,FALSE,By View,-2009058
+TRUE,Shear Studs,,,0,,,FALSE,By View,-2009044
+TRUE,Sheets,,,0,,,FALSE,By View,-2003100
+TRUE,Signage,,,0,,,FALSE,By View,-2001058
+TRUE,Signage Tags,,,0,,,FALSE,By View,-2001061
+TRUE,Sill/Head,,,0,,,FALSE,By View,-2000020
+TRUE,Site,,,0,,,FALSE,By View,-2001260
+TRUE,Site Tags,,,0,,,FALSE,By View,-2005016
+TRUE,Slab Edge Tags,,,0,,,FALSE,By View,-2001070
+TRUE,Slab Edges,,,0,,,FALSE,By View,-2001392
+TRUE,Slab Shape Editor - Auto Crease,,,0,,,FALSE,By View,-2000085
+TRUE,Slab Shape Editor - Boundary,,,0,,,FALSE,By View,-2000086
+TRUE,Slab Shape Editor - Explicit Crease,,,0,,,FALSE,By View,-2000084
+TRUE,Slab Shape Editor - Point Boundary,,,0,,,FALSE,By View,-2000087
+TRUE,Slab Shape Editor - Point Interior,,,0,,,FALSE,By View,-2000088
+TRUE,Slabs on Grade,,,0,,,FALSE,By View,-2008170
+TRUE,Sliding Doors,,,0,,,FALSE,By View,-2008182
+TRUE,Snow Loads,,,0,,,FALSE,By View,-2005214
+TRUE,Space Tags,,,0,,,FALSE,By View,-2000485
+TRUE,Space Type Settings,,,0,,,FALSE,By View,-2008119
+TRUE,Spaces,,,0,,,FALSE,By View,-2003600
+TRUE,Span Direction Symbol,,,0,,,FALSE,By View,-2005110
+TRUE,Specialty Equipment,,,0,,,FALSE,By View,-2001350
+TRUE,Specialty Equipment Tags,,,0,,,FALSE,By View,-2005014
+TRUE,Split Face,,,0,,,FALSE,By View,-2000192
+TRUE,Split Lines,,,0,,,FALSE,By View,-2001084
+TRUE,Split Lines,,,0,,,FALSE,By View,-2001076
+TRUE,Spot Coordinates,,,0,,,FALSE,By View,-2000264
+TRUE,Spot Elevation Symbols,,,0,,,FALSE,By View,-2005100
+TRUE,Spot Elevations,,,0,,,FALSE,By View,-2000263
+TRUE,Spot Slopes,,,0,,,FALSE,By View,-2000265
+TRUE,Sprinkler Tags,,,0,,,FALSE,By View,-2008100
+TRUE,Sprinklers,,,0,,,FALSE,By View,-2008099
+TRUE,Stacked Walls,,,0,,,FALSE,By View,-2003500
+TRUE,Stair Landing Tags,,,0,,,FALSE,By View,-2000941
+TRUE,Stair Paths,,,0,,,FALSE,By View,-2000938
+TRUE,Stair Run Tags,,,0,,,FALSE,By View,-2000940
+TRUE,Stair Support Tags,,,0,,,FALSE,By View,-2000942
+TRUE,Stair Tags,,,0,,,FALSE,By View,-2005023
+TRUE,Stair Tread/Riser Numbers,,,0,,,FALSE,By View,-2000944
+TRUE,Stairs,,,0,,,FALSE,By View,-2000120
+TRUE,Start Segment,,,0,,,FALSE,By View,-2009634
+TRUE,Start Segment,,,0,,,FALSE,By View,-2009631
+TRUE,Stick Symbols,,,0,,,FALSE,By View,-2001335
+TRUE,Stick Symbols,,,0,,,FALSE,By View,-2009608
+TRUE,Stringers,,,0,,,FALSE,By View,-2003303
+TRUE,Stringers Beyond Cut Line,,,0,,,FALSE,By View,-2003304
+TRUE,Structural Annotations,,,0,,,FALSE,By View,-2006090
+TRUE,Structural Area Reinforcement,,,0,,,FALSE,By View,-2009003
+TRUE,Structural Area Reinforcement Symbols,,,0,,,FALSE,By View,-2009005
+TRUE,Structural Area Reinforcement Tags,,,0,,,FALSE,By View,-2009021
+TRUE,Structural Beam System Tags,,,0,,,FALSE,By View,-2005130
+TRUE,Structural Beam Systems,,,0,,,FALSE,By View,-2001327
+TRUE,Structural Column Tags,,,0,,,FALSE,By View,-2005018
+TRUE,Structural Columns,,,0,,,FALSE,By View,-2001330
+TRUE,Structural Connection Tags,,,0,,,FALSE,By View,-2009040
+TRUE,Structural Connections,,,0,,,FALSE,By View,-2009030
+TRUE,Structural Connections,,,0,,,FALSE,By View,-2009034
+TRUE,Structural Connections,,,0,,,FALSE,By View,-2009035
+TRUE,Structural Connections,,,0,,,FALSE,By View,-2009043
+TRUE,Structural Fabric Area Tags,,,0,,,FALSE,By View,-2009023
+TRUE,Structural Fabric Areas,,,0,,,FALSE,By View,-2009017
+TRUE,Structural Fabric Reinforcement,,,0,,,FALSE,By View,-2009016
+TRUE,Structural Fabric Reinforcement Symbols,,,0,,,FALSE,By View,-2009028
+TRUE,Structural Fabric Reinforcement Tags,,,0,,,FALSE,By View,-2009022
+TRUE,Structural Foundation Tags,,,0,,,FALSE,By View,-2005019
+TRUE,Structural Foundations,,,0,,,FALSE,By View,-2001300
+TRUE,Structural Framing,,,0,,,FALSE,By View,-2001320
+TRUE,Structural Framing Tags,,,0,,,FALSE,By View,-2005015
+TRUE,Structural Load Cases,,,0,,,FALSE,By View,-2005210
+TRUE,Structural Loads,,,0,,,FALSE,By View,-2005200
+TRUE,Structural Path Reinforcement,,,0,,,FALSE,By View,-2009009
+TRUE,Structural Path Reinforcement Symbols,,,0,,,FALSE,By View,-2009010
+TRUE,Structural Path Reinforcement Tags,,,0,,,FALSE,By View,-2009011
+TRUE,Structural Rebar,,,0,,,FALSE,By View,-2009000
+TRUE,Structural Rebar Bending Details,,,0,,,FALSE,By View,-2001104
+TRUE,Structural Rebar Coupler Tags,,,0,,,FALSE,By View,-2009061
+TRUE,Structural Rebar Couplers,,,0,,,FALSE,By View,-2009060
+TRUE,Structural Rebar Tags,,,0,,,FALSE,By View,-2009020
+TRUE,Structural Reinforcement Cages,,,0,,,FALSE,By View,-2009008
+TRUE,Structural Stiffener Tags,,,0,,,FALSE,By View,-2001355
+TRUE,Structural Stiffeners,,,0,,,FALSE,By View,-2001354
+TRUE,Structural Tendon Tags,,,0,,,FALSE,By View,-2006276
+TRUE,Structural Tendons,,,0,,,FALSE,By View,-2006274
+TRUE,Structural Truss Tags,,,0,,,FALSE,By View,-2005030
+TRUE,Structural Trusses,,,0,,,FALSE,By View,-2009600
+TRUE,Structural Trusses,,,0,,,FALSE,By View,-2001336
+TRUE,Structural opening cut,,,0,,,FALSE,By View,-2000994
+TRUE,Structural opening cut,,,0,,,FALSE,By View,-2000995
+TRUE,Structure [1],,,0,,,FALSE,By View,-2001088
+TRUE,Structure [1],,,0,,,FALSE,By View,-2000581
+TRUE,Structure [1],,,0,,,FALSE,By View,-2000601
+TRUE,Structure [1],,,0,,,FALSE,By View,-2000591
+TRUE,Structure [1],,,0,,,FALSE,By View,-2000611
+TRUE,Sub-Connections,,,0,,,FALSE,By View,-2009049
+TRUE,Substrate [2],,,0,,,FALSE,By View,-2000593
+TRUE,Substrate [2],,,0,,,FALSE,By View,-2000583
+TRUE,Substrate [2],,,0,,,FALSE,By View,-2000603
+TRUE,Substrate [2],,,0,,,FALSE,By View,-2000613
+TRUE,Substrate [2],,,0,,,FALSE,By View,-2001089
+TRUE,Sun,,,0,,,FALSE,By View,-2009610
+TRUE,Sun Path,,,0,,,FALSE,By View,-2009609
+TRUE,Sun text,,,0,,,FALSE,By View,-2009614
+TRUE,Sun text,,,0,,,FALSE,By View,-2009624
+TRUE,Sun text,,,0,,,FALSE,By View,-2009623
+TRUE,Sun text,,,0,,,FALSE,By View,-2009617
+TRUE,Supports,,,0,,,FALSE,By View,-2000952
+TRUE,Supports,,,0,,,FALSE,By View,-2000948
+TRUE,Supports,,,0,,,FALSE,By View,-2000123
+TRUE,Surface Pattern,,,0,,,FALSE,By View,-2000540
+TRUE,Surface Pattern,,,0,,,FALSE,By View,-2000541
+TRUE,Surface Pattern,,,0,,,FALSE,By View,-2000542
+TRUE,Surface Pattern,,,0,,,FALSE,By View,-2000543
+TRUE,Surface Pattern,,,0,,,FALSE,By View,-2001092
+TRUE,Survey Point,,,0,,,FALSE,By View,-2001272
+TRUE,Suspended Sketch,,,0,,,FALSE,By View,-2000054
+TRUE,Suspended Sketch,,,0,,,FALSE,By View,-2000094
+TRUE,Switch System,,,0,,,FALSE,By View,-2008101
+TRUE,Symbol,,,0,,,FALSE,By View,-2009033
+TRUE,Symbology,,,0,,,FALSE,By View,-2008215
+TRUE,Symbology,,,0,,,FALSE,By View,-2008211
+TRUE,Symbology,,,0,,,FALSE,By View,-2008207
+TRUE,System-Zone Tags,,,0,,,FALSE,By View,-2001007
+TRUE,System-Zones,,,0,,,FALSE,By View,-2001001
+TRUE,Telephone Device Tags,,,0,,,FALSE,By View,-2008076
+TRUE,Telephone Devices,,,0,,,FALSE,By View,-2008075
+TRUE,Temperature Loads,,,0,,,FALSE,By View,-2005217
+TRUE,Temporary,,,0,,,FALSE,By View,-2000105
+TRUE,Temporary Structure Tags,,,0,,,FALSE,By View,-2001042
+TRUE,Temporary Structures,,,0,,,FALSE,By View,-2001039
+TRUE,Terminations,,,0,,,FALSE,By View,-2000949
+TRUE,Tertiary,,,0,,,FALSE,By View,-2001324
+TRUE,Text Notes,,,0,,,FALSE,By View,-2000300
+TRUE,Thermal/Air Layer [3],,,0,,,FALSE,By View,-2000602
+TRUE,Thermal/Air Layer [3],,,0,,,FALSE,By View,-2000612
+TRUE,Thermal/Air Layer [3],,,0,,,FALSE,By View,-2000592
+TRUE,Thermal/Air Layer [3],,,0,,,FALSE,By View,-2001093
+TRUE,Thermal/Air Layer [3],,,0,,,FALSE,By View,-2000582
+TRUE,Thin Pixel,,,0,,,FALSE,By View,-2000057
+TRUE,Thin Pixel - Dash,,,0,,,FALSE,By View,-2000062
+TRUE,Thin Pixel - Dash,,,0,,,FALSE,By View,-2000089
+TRUE,Thin Pixel - DashDot,,,0,,,FALSE,By View,-2000063
+TRUE,Thin Pixel - Dot,,,0,,,FALSE,By View,-2000061
+TRUE,This element has an open connector,,,0,,,FALSE,By View,-2008162
+TRUE,Tile pattern grids,,,0,,,FALSE,By View,-2000800
+TRUE,Title Blocks,,,0,,,FALSE,By View,-2000280
+TRUE,Top Chord,,,0,,,FALSE,By View,-2009603
+TRUE,Top Rail Tags,,,0,,,FALSE,By View,-2001071
+TRUE,Top Rails,,,0,,,FALSE,By View,-2000946
+TRUE,Top Segment,,,0,,,FALSE,By View,-2009638
+TRUE,Topography,,,0,,,FALSE,By View,-2001340
+TRUE,Topography Links,,,0,,,FALSE,By View,-2001339
+TRUE,Toposolid,,,0,,,FALSE,By View,-2001079
+TRUE,Toposolid Link Tags,,,0,,,FALSE,By View,-2001103
+TRUE,Toposolid Links,,,0,,,FALSE,By View,-2001097
+TRUE,Toposolid Tags,,,0,,,FALSE,By View,-2001094
+TRUE,Toposolid opening cut,,,0,,,FALSE,By View,-2001095
+TRUE,Transparent Face,,,0,,,FALSE,By View,-2003329
+TRUE,Treads/Risers,,,0,,,FALSE,By View,-2000921
+TRUE,Triangulation Edges,,,0,,,FALSE,By View,-2001341
+TRUE,Trusses,,,0,,,FALSE,By View,-2006248
+TRUE,UP Text,,,0,,,FALSE,By View,-2000125
+TRUE,UP text,,,0,,,FALSE,By View,-2003305
+TRUE,Underground,,,0,,,FALSE,By View,-2008094
+TRUE,Underground Ceilings,,,0,,,FALSE,By View,-2008177
+TRUE,Underground Slabs,,,0,,,FALSE,By View,-2008176
+TRUE,Underground Walls,,,0,,,FALSE,By View,-2008175
+TRUE,Up Arrow,,,0,,,FALSE,By View,-2003307
+TRUE,Up Arrows,,,0,,,FALSE,By View,-2000130
+TRUE,Upper/lower offset lines,,,0,,,FALSE,By View,-2000115
+TRUE,Vertical Bracing,,,0,,,FALSE,By View,-2001326
+TRUE,Vertical Circulation,,,0,,,FALSE,By View,-2001052
+TRUE,Vertical Circulation Tags,,,0,,,FALSE,By View,-2001054
+TRUE,Vibration Damper Tags,,,0,,,FALSE,By View,-2006264
+TRUE,Vibration Dampers,,,0,,,FALSE,By View,-2006263
+TRUE,Vibration Isolator Tags,,,0,,,FALSE,By View,-2006266
+TRUE,Vibration Isolators,,,0,,,FALSE,By View,-2006265
+TRUE,Vibration Management,,,0,,,FALSE,By View,-2006261
+TRUE,Vibration Management Tags,,,0,,,FALSE,By View,-2006282
+TRUE,View Reference,,,0,,,FALSE,By View,-2000197
+TRUE,View Reference,,,0,,,FALSE,By View,-2000198
+TRUE,View Titles,,,0,,,FALSE,By View,-2000515
+TRUE,Viewports,,,0,,,FALSE,By View,-2000510
+TRUE,Views,,,0,,,FALSE,By View,-2000278
+TRUE,Views,,,0,,,FALSE,By View,-2000279
+TRUE,Voltages,,,0,,,FALSE,By View,-2008040
+TRUE,Wall Layers,,,0,,,FALSE,By View,-2001105
+TRUE,Wall Sweep Tags,,,0,,,FALSE,By View,-2001072
+TRUE,Wall Sweeps,,,0,,,FALSE,By View,-2000181
+TRUE,Wall Tags,,,0,,,FALSE,By View,-2005011
+TRUE,Walls,,,0,,,FALSE,By View,-2000011
+TRUE,Water Loops,,,0,,,FALSE,By View,-2001009
+TRUE,Web,,,0,,,FALSE,By View,-2009601
+TRUE,Web,,,0,,,FALSE,By View,-2009605
+TRUE,Web,,,0,,,FALSE,By View,-2009602
+TRUE,Weld Tags,,,0,,,FALSE,By View,-2009059
+TRUE,Welding Lines,,,0,,,FALSE,By View,-2009031
+TRUE,Welds,,,0,,,FALSE,By View,-2009046
+TRUE,Wind Loads,,,0,,,FALSE,By View,-2005213
+TRUE,Window Tags,,,0,,,FALSE,By View,-2000450
+TRUE,Windows,,,0,,,FALSE,By View,-2000014
+TRUE,Wire Insulations,,,0,,,FALSE,By View,-2008112
+TRUE,Wire Materials,,,0,,,FALSE,By View,-2008111
+TRUE,Wire Tags,,,0,,,FALSE,By View,-2008057
+TRUE,Wire Temperature Ratings,,,0,,,FALSE,By View,-2008113
+TRUE,Wire Tick Marks,,,0,,,FALSE,By View,-2008074
+TRUE,Wires,,,0,,,FALSE,By View,-2008039
+TRUE,Work Plane Grid,,,0,,,FALSE,By View,-2000055
+TRUE,X Axis,,,0,,,FALSE,By View,-2007001
+TRUE,X-ray mode - Constrained Profile Edge,,,0,,,FALSE,By View,-2000720
+TRUE,X-ray mode - Implicit Path Curve,,,0,,,FALSE,By View,-2000719
+TRUE,X-ray mode - Path Curve,,,0,,,FALSE,By View,-2000717
+TRUE,X-ray mode - Path Point,,,0,,,FALSE,By View,-2000718
+TRUE,X-ray mode - Profile Edge,,,0,,,FALSE,By View,-2000715
+TRUE,X-ray mode - Side Edge,,,0,,,FALSE,By View,-2000716
+TRUE,Y Axis,,,0,,,FALSE,By View,-2007002
+TRUE,Z Axis,,,0,,,FALSE,By View,-2007003
+TRUE,Zone Equipment,,,0,,,FALSE,By View,-2001010
+TRUE,Zone Schemes,,,0,,,FALSE,By View,-2003225
+TRUE,Zone Tags,,,0,,,FALSE,By View,-2008115
