@@ -4,6 +4,7 @@
     <Configurations>Debug 2020;Debug 2024;Release 2020;Release 2024</Configurations>
     <LangVersion>latest</LangVersion>
     <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>RevitAddin</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup Condition="$(Configuration.Contains('2020'))">
